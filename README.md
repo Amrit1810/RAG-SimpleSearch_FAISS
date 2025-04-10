@@ -40,7 +40,7 @@
         ```bash
         brew install libreoffice tesseract poppler
         ```
-    *   **Other OS:** Consult the [unstructured documentation](https://unstructured-io.github.io/unstructured/installation/full_installation.html).
+    *   **Other OS:** Consult the [unstructured documentation]([https://unstructured-io.github.io/unstructured/installation/full_installation.html](https://docs.unstructured.io/welcome)).
     *   *Failure to install these may result in errors when processing certain files.*
 
 5.  **GPU Support (Optional):**
