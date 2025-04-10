@@ -127,4 +127,4 @@ Adjust key parameters in `utils.py`:
 
 ## 📜 License
 
-[Specify Your License Here - e.g., MIT License]
+This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
