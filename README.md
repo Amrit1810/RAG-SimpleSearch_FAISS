@@ -1,5 +1,5 @@
 # RAG-SimpleSearch_FAISS
-🚀 Python RAG toolkit: Easily index local documents (PDF, DOCX, TXT+) using LangChain &amp; FAISS. Enables semantic search and automatically enhances LLM prompts with relevant context. Simple setup, powerful results.
+🚀 Python RAG toolkit: Index local files (PDF, DOCX, DOC, XLSX, XLS, CSV, TXT) using LangChain & FAISS. Enables semantic search & enhances LLM prompts with relevant context. Simple setup.
 
 
 
@@ -53,7 +53,7 @@
     *   Embeddings will automatically try using the GPU if `torch` detects CUDA.
 
 6.  **Add Your Documents:**
-    *   Place all your files (`.pdf`, `.docx`, `.txt`, etc.) directly into the `Documents/` folder.
+    *   Place all your files (PDF, DOCX, DOC, XLSX, XLS, CSV, TXT) directly into the `Documents/` folder.
 
 ---
 
