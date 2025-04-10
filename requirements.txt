@@ -1,0 +1,11 @@
+langchain
+langchain-community
+sentence-transformers
+#faiss-gpu
+torch
+pypdf
+python-docx
+openpyxl
+pandas
+unstructured[local-inference]
+tiktoken
